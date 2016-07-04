@@ -221,7 +221,7 @@
 
         defaults: {
             /**
-             * Default text function will either print 'None selected' in case no
+             * Default text function will either print 'Todos' in case no
              * option is selected or a list of the selected options up to a length
              * of 3 selected options.
              *
