@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-multiselect",
+  "name": "ingaia-bootstrap-multiselect",
   "description": "Twitter Bootstrap plugin to make selects user friendly.",
   "homepage": "http://davidstutz.github.io/bootstrap-multiselect/",
-  "version": "0.9.13",
+  "version": "1.0.0",
   "keywords": [
       "js",
       "css",
@@ -10,6 +10,7 @@
       "bootstrap",
       "jquery",
       "multiselect"
+      "ingaia"
   ],
   "main": [
     "./dist/js/bootstrap-multiselect.js",
