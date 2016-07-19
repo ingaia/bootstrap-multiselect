@@ -9,7 +9,7 @@
       "less",
       "bootstrap",
       "jquery",
-      "multiselect"
+      "multiselect",
       "ingaia"
   ],
   "main": [
